@@ -1,0 +1,30 @@
+WEEK 1 - DAY 1: HTML BASICS
+REFLECTION
+
+1. What steps did you follow to create your webpage?
+
+First, I created a project folder and an index.html file.
+Then I wrote the basic HTML structure and added my
+introduction, hobbies, favourite website and chess image.
+Finally, I opened the webpage in Google Chrome.
+
+2. Which HTML tags did you learn today?
+
+I learned HTML, head, title, body, h1, h2, p, ul, li,
+a, img, strong, em, br, hr and HTML comments.
+
+3. What difficulties did you face while completing the task?
+
+I faced some difficulties while adding an image and
+understanding the correct image path.
+
+4. How did you solve those difficulties?
+
+I solved the problem by checking the image location
+and correcting the src attribute in my HTML code.
+
+5. What new things did you learn from this assignment?
+
+I learned how to create a personal webpage using HTML
+and how to add headings, paragraphs, images, hyperlinks
+and lists.
